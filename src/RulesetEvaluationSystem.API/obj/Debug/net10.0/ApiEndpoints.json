@@ -1,0 +1,106 @@
+[
+  {
+    "ContainingType": "RulesetEvaluationSystem.API.Controllers.EvaluationController",
+    "Method": "EvaluateOrder",
+    "RelativePath": "api/Evaluation/evaluate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "RulesetEvaluationSystem.Application.DTOs.Request.OrderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RulesetEvaluationSystem.Application.DTOs.Response.EvaluationResultDto",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "RulesetEvaluationSystem.API.Controllers.EvaluationController",
+    "Method": "HealthCheck",
+    "RelativePath": "api/Evaluation/health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RulesetEvaluationSystem.API.Controllers.LogsController",
+    "Method": "GetLogsByOrderId",
+    "RelativePath": "api/Logs/order/{orderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RulesetEvaluationSystem.API.Controllers.LogsController",
+    "Method": "GetRecentLogs",
+    "RelativePath": "api/Logs/recent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RulesetEvaluationSystem.API.Controllers.RulesetsController",
+    "Method": "GetAllRulesets",
+    "RelativePath": "api/Rulesets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RulesetEvaluationSystem.API.Controllers.RulesetsController",
+    "Method": "GetRuleset",
+    "RelativePath": "api/Rulesets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,11 @@
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Core\bin\Debug\net10.0\RulesetEvaluationSystem.Domain.deps.json
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Core\bin\Debug\net10.0\RulesetEvaluationSystem.Domain.dll
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Core\bin\Debug\net10.0\RulesetEvaluationSystem.Domain.pdb
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Core\obj\Debug\net10.0\RulesetEvaluationSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Core\obj\Debug\net10.0\RulesetEvaluationSystem.Domain.AssemblyInfoInputs.cache
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Core\obj\Debug\net10.0\RulesetEvaluationSystem.Domain.AssemblyInfo.cs
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Core\obj\Debug\net10.0\RulesetEvaluationSystem.Domain.csproj.CoreCompileInputs.cache
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Core\obj\Debug\net10.0\RulesetEvaluationSystem.Domain.dll
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Core\obj\Debug\net10.0\refint\RulesetEvaluationSystem.Domain.dll
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Core\obj\Debug\net10.0\RulesetEvaluationSystem.Domain.pdb
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Core\obj\Debug\net10.0\ref\RulesetEvaluationSystem.Domain.dll

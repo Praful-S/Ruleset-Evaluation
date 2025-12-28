@@ -1,0 +1,15 @@
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\bin\Debug\net10.0\RulesetEvaluationSystem.Application.deps.json
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\bin\Debug\net10.0\RulesetEvaluationSystem.Application.dll
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\bin\Debug\net10.0\RulesetEvaluationSystem.Application.pdb
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\obj\Debug\net10.0\RulesetEvaluationSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\obj\Debug\net10.0\RulesetEvaluationSystem.Application.AssemblyInfoInputs.cache
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\obj\Debug\net10.0\RulesetEvaluationSystem.Application.AssemblyInfo.cs
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\obj\Debug\net10.0\RulesetEvaluationSystem.Application.csproj.CoreCompileInputs.cache
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\obj\Debug\net10.0\RulesetEvaluationSystem.Application.dll
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\obj\Debug\net10.0\refint\RulesetEvaluationSystem.Application.dll
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\obj\Debug\net10.0\RulesetEvaluationSystem.Application.pdb
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\obj\Debug\net10.0\ref\RulesetEvaluationSystem.Application.dll
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\bin\Debug\net10.0\RulesetEvaluationSystem.Domain.dll
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\bin\Debug\net10.0\RulesetEvaluationSystem.Domain.pdb
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\obj\Debug\net10.0\RulesetEvaluationSystem.Application.csproj.AssemblyReference.cache
+D:\RepoHub\SkillLab\RulesetEvaluationSystem\RulesetEvaluationSystem.Application\obj\Debug\net10.0\RulesetE.9BED05FA.Up2Date

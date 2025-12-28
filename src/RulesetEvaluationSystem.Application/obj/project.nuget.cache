@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "RSQmuVM1WXI=",
+  "success": false,
+  "projectFilePath": "D:\\RepoHub\\SkillLab\\Submission\\RulesetEvaluationSystem\\src\\RulesetEvaluationSystem.Application\\RulesetEvaluationSystem.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Praful\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512",
+    "C:\\Users\\Praful\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.1\\microsoft.extensions.logging.abstractions.10.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\RepoHub\\SkillLab\\Submission\\RulesetEvaluationSystem\\src\\RulesetEvaluationSystem.Core\\RulesetEvaluationSystem.Domain.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "projectPath": "D:\\RepoHub\\SkillLab\\Submission\\RulesetEvaluationSystem\\src\\RulesetEvaluationSystem.Application\\RulesetEvaluationSystem.Application.csproj",
+      "filePath": "D:\\RepoHub\\SkillLab\\Submission\\RulesetEvaluationSystem\\src\\RulesetEvaluationSystem.Application\\RulesetEvaluationSystem.Application.csproj",
+      "libraryId": "D:\\RepoHub\\SkillLab\\Submission\\RulesetEvaluationSystem\\src\\RulesetEvaluationSystem.Core\\RulesetEvaluationSystem.Domain.csproj",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

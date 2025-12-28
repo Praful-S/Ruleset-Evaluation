@@ -1,0 +1,6 @@
+@RulesetEvaluationSystem.API_HostAddress = http://localhost:5148
+
+GET {{RulesetEvaluationSystem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
